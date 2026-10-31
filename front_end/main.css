@@ -1,0 +1,15 @@
+#title_text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: antiquewhite;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url('mountain_background.webp');
+  background-size: cover;
+  background-position: center center;
+}
