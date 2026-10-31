@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "FRC Task Management Board 2026-2027",
+  "homepage": "https://github.com/Codemassi/CyberCubs-Task-Managment#readme",
+  "bugs": {
+    "url": "https://github.com/Codemassi/CyberCubs-Task-Managment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codemassi/CyberCubs-Task-Managment.git"
+  },
+  "license": "ISC",
+  "author": "Massimo Zim",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
